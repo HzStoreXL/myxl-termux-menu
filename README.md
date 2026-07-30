@@ -31,9 +31,9 @@ https://saus.gemail.ink/anomali/anomali-xl.git
 
 Salin dan tempel perintah ini di Termux kamu 👇
 ```
-git clone https://github.com/HzStoreXL/my-termux-menu
-cd my-termux-menu
+git clone https://github.com/HzStoreXL/myxl-termux-menu
+cd myxl-termux-menu
 ```
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/HzStoreXL/my-termux-menu/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/HzStoreXL/myxl-termux-menu/main/install.sh)
